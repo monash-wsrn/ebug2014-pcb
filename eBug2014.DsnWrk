@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=eBug2014.PrjPcb
+[Project2]
+ProjectPath=Libraries\eBug2014\eBug2014.LibPkg
