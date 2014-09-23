@@ -6,3 +6,5 @@ ProjectPath=eBug2014.PrjPcb
 ProjectPath=Libraries\eBug2014\eBug2014.LibPkg
 [Project3]
 ProjectPath=LED Circuit (Version 2)\LED Circuit (Version 2).PrjPcb
+[Project4]
+ProjectPath=Light Sensor Circuit\Light Sensor Circuit.PrjPcb
