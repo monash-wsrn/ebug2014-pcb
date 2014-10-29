@@ -69,7 +69,7 @@ GenerateClassCluster=0
 
 [Document3]
 DocumentPath=LEDs.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
