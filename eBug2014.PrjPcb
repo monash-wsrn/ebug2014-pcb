@@ -28,7 +28,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=
+OutputPath=Project Outputs for eBug2014
 LogFolderPath=
 
 [Preferences]
@@ -374,8 +374,8 @@ AddNetNetLabels=-1
 AddNetPorts=-1
 ShowComponentParameters=-1
 GlobalBookmarks=0
-ExportBOM=0
-TemplateFilename=Board Stack Report.XLT
+ExportBOM=-1
+TemplateFilename=
 TemplateStoreRelative=-1
 PCB_PrintColor=0
 SCH_PrintColor=0
@@ -397,7 +397,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for eBug2014
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -763,13 +763,13 @@ PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration1_Name1=Filter
 Configuration1_Item1=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration1_Name2=General
-Configuration1_Item2=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|IncludePCBData=False|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=950|FormHeight=653|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration1_Item2=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|IncludePCBData=False|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1122|FormHeight=653|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration1_Name3=GroupOrder
-Configuration1_Item3=Value=True|Footprint=True
+Configuration1_Item3=Description=True|Value=True|Footprint=True
 Configuration1_Name4=SortOrder
 Configuration1_Item4=Designator=Up|Comment=Up|Footprint=Up
 Configuration1_Name5=VisibleOrder
-Configuration1_Item5=Description=268|Designator=130|Footprint=130|Quantity=130|Value=92
+Configuration1_Item5=Description=572|Designator=130|Footprint=130|Quantity=130|Value=92
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
