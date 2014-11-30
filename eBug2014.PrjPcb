@@ -28,7 +28,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=
+OutputPath=Project Outputs for eBug2014
 LogFolderPath=
 
 [Preferences]
@@ -355,6 +355,121 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[ProjectVariant1]
+Description=LightToVoltage
+AllowFabrication=0
+ParameterCount=0
+VariationCount=16
+Variation1=Designator=LS10|UniqueId=\JGRMBHUV\YPJSTGJC|Kind=2|AlternatePart=TSL252R-LF
+ParamVariation1=ParameterName=Comment|VariantValue=TSL252R-LF
+ParamDesignator1=LS10
+ParamVariation2=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
+ParamDesignator2=LS10
+Variation2=Designator=LS1|UniqueId=\JGRMBHUV\ETAAMSCM|Kind=2|AlternatePart=TSL252R-LF
+ParamVariation3=ParameterName=Comment|VariantValue=TSL252R-LF
+ParamDesignator3=LS1
+ParamVariation4=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
+ParamDesignator4=LS1
+Variation3=Designator=LS4|UniqueId=\JGRMBHUV\IWAHGQTH|Kind=2|AlternatePart=TSL252R-LF
+ParamVariation5=ParameterName=Comment|VariantValue=TSL252R-LF
+ParamDesignator5=LS4
+ParamVariation6=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
+ParamDesignator6=LS4
+Variation4=Designator=LS3|UniqueId=\JGRMBHUV\FPCAKKOX|Kind=2|AlternatePart=TSL252R-LF
+ParamVariation7=ParameterName=Comment|VariantValue=TSL252R-LF
+ParamDesignator7=LS3
+ParamVariation8=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
+ParamDesignator8=LS3
+Variation5=Designator=LS5|UniqueId=\JGRMBHUV\TCJCUNEW|Kind=2|AlternatePart=TSL252R-LF
+ParamVariation9=ParameterName=Comment|VariantValue=TSL252R-LF
+ParamDesignator9=LS5
+ParamVariation10=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
+ParamDesignator10=LS5
+Variation6=Designator=LS2|UniqueId=\JGRMBHUV\KABTENBL|Kind=2|AlternatePart=TSL252R-LF
+ParamVariation11=ParameterName=Comment|VariantValue=TSL252R-LF
+ParamDesignator11=LS2
+ParamVariation12=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
+ParamDesignator12=LS2
+Variation7=Designator=LS6|UniqueId=\JGRMBHUV\JTHESEKU|Kind=2|AlternatePart=TSL252R-LF
+ParamVariation13=ParameterName=Comment|VariantValue=TSL252R-LF
+ParamDesignator13=LS6
+ParamVariation14=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
+ParamDesignator14=LS6
+Variation8=Designator=LS7|UniqueId=\JGRMBHUV\WSCSDRTF|Kind=2|AlternatePart=TSL252R-LF
+ParamVariation15=ParameterName=Comment|VariantValue=TSL252R-LF
+ParamDesignator15=LS7
+ParamVariation16=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
+ParamDesignator16=LS7
+Variation9=Designator=LS8|UniqueId=\JGRMBHUV\DAOXMVBB|Kind=2|AlternatePart=TSL252R-LF
+ParamVariation17=ParameterName=Comment|VariantValue=TSL252R-LF
+ParamDesignator17=LS8
+ParamVariation18=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
+ParamDesignator18=LS8
+Variation10=Designator=LS9|UniqueId=\JGRMBHUV\RQYDKALT|Kind=2|AlternatePart=TSL252R-LF
+ParamVariation19=ParameterName=Comment|VariantValue=TSL252R-LF
+ParamDesignator19=LS9
+ParamVariation20=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
+ParamDesignator20=LS9
+Variation11=Designator=LS11|UniqueId=\JGRMBHUV\CFNLURER|Kind=2|AlternatePart=TSL252R-LF
+ParamVariation21=ParameterName=Comment|VariantValue=TSL252R-LF
+ParamDesignator21=LS11
+ParamVariation22=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
+ParamDesignator22=LS11
+Variation12=Designator=LS12|UniqueId=\JGRMBHUV\KPVNSQHP|Kind=2|AlternatePart=TSL252R-LF
+ParamVariation23=ParameterName=Comment|VariantValue=TSL252R-LF
+ParamDesignator23=LS12
+ParamVariation24=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
+ParamDesignator24=LS12
+Variation13=Designator=LS13|UniqueId=\JGRMBHUV\OMXGUSWO|Kind=2|AlternatePart=TSL252R-LF
+ParamVariation25=ParameterName=Comment|VariantValue=TSL252R-LF
+ParamDesignator25=LS13
+ParamVariation26=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
+ParamDesignator26=LS13
+Variation14=Designator=LS14|UniqueId=\JGRMBHUV\OGMXHCHD|Kind=2|AlternatePart=TSL252R-LF
+ParamVariation27=ParameterName=Comment|VariantValue=TSL252R-LF
+ParamDesignator27=LS14
+ParamVariation28=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
+ParamDesignator28=LS14
+Variation15=Designator=LS15|UniqueId=\JGRMBHUV\TXOUREPO|Kind=2|AlternatePart=TSL252R-LF
+ParamVariation29=ParameterName=Comment|VariantValue=TSL252R-LF
+ParamDesignator29=LS15
+ParamVariation30=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
+ParamDesignator30=LS15
+Variation16=Designator=LS16|UniqueId=\JGRMBHUV\UFIHMTAA|Kind=2|AlternatePart=TSL252R-LF
+ParamVariation31=ParameterName=Comment|VariantValue=TSL252R-LF
+ParamDesignator31=LS16
+ParamVariation32=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
+ParamDesignator32=LS16
+ParamVariationCount=32
+
+[ProjectVariant2]
+Description=LightToFrequency
+AllowFabrication=0
+ParameterCount=0
+VariationCount=17
+Variation1=Designator=R55|UniqueId=\JGRMBHUV\LMBKFVXF|Kind=1|AlternatePart= 
+Variation2=Designator=R53|UniqueId=\JGRMBHUV\TYTYTLOK|Kind=1|AlternatePart= 
+Variation3=Designator=R54|UniqueId=\JGRMBHUV\OYHSFHFQ|Kind=1|AlternatePart= 
+Variation4=Designator=R56|UniqueId=\JGRMBHUV\FOMFUFSC|Kind=1|AlternatePart= 
+Variation5=Designator=R57|UniqueId=\JGRMBHUV\NBPWNOBR|Kind=1|AlternatePart= 
+Variation6=Designator=R58|UniqueId=\JGRMBHUV\BVPRNPEU|Kind=1|AlternatePart= 
+Variation7=Designator=R59|UniqueId=\JGRMBHUV\NVNENANS|Kind=1|AlternatePart= 
+Variation8=Designator=R60|UniqueId=\JGRMBHUV\HLWQKEKQ|Kind=1|AlternatePart= 
+Variation9=Designator=R61|UniqueId=\JGRMBHUV\GPPEWPIP|Kind=1|AlternatePart= 
+Variation10=Designator=R62|UniqueId=\JGRMBHUV\OVWTKQEI|Kind=1|AlternatePart= 
+Variation11=Designator=R63|UniqueId=\JGRMBHUV\QHAAUIPL|Kind=1|AlternatePart= 
+Variation12=Designator=R64|UniqueId=\JGRMBHUV\JSJDAJSH|Kind=1|AlternatePart= 
+Variation13=Designator=R65|UniqueId=\JGRMBHUV\KWBUKPWN|Kind=1|AlternatePart= 
+Variation14=Designator=R66|UniqueId=\JGRMBHUV\IVUHENAC|Kind=1|AlternatePart= 
+Variation15=Designator=R67|UniqueId=\JGRMBHUV\MRCIUSNC|Kind=1|AlternatePart= 
+Variation16=Designator=R68|UniqueId=\JGRMBHUV\YQDFPNEA|Kind=1|AlternatePart= 
+Variation17=Designator=LS1|UniqueId=\JGRMBHUV\ETAAMSCM|Kind=2|AlternatePart=TSL235R-LF
+ParamVariation1=ParameterName=Comment|VariantValue=TSL235R-LF
+ParamDesignator1=LS1
+ParamVariation2=ParameterName=Description|VariantValue=AMS - TSL235R-LF - IC LIGHT TO FREQUENCY CONV 3PIN
+ParamDesignator2=LS1
+ParamVariationCount=2
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for eBug2014\Design Rule Check - PCB.html
 DItemRevisionGUID=
@@ -403,7 +518,7 @@ SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangl
 SCH_ShowNote=-1
 SCH_ShowNoteCollapsed=-1
 SCH_ExpandLogicalToPhysical=-1
-SCH_VariantName=[No Variations]
+SCH_VariantName=LightToVoltage
 SCH_ExpandComponentDesignators=-1
 SCH_ExpandNetlabels=0
 SCH_ExpandPorts=0
@@ -413,7 +528,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for eBug2014
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -770,44 +885,44 @@ Name=Report Outputs
 Description=
 TargetPrinter=HPCD1EFE (HP Officejet Pro 8620)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
-OutputType1=BOM_PartType
-OutputName1=Bill of Materials
+OutputType1=Script
+OutputName1=Script Output
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-Configuration1_Name1=Filter
-Configuration1_Item1=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
-Configuration1_Name2=General
-Configuration1_Item2=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|IncludePCBData=False|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1122|FormHeight=653|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
-Configuration1_Name3=GroupOrder
-Configuration1_Item3=Description=True|Value=True|Footprint=True
-Configuration1_Name4=SortOrder
-Configuration1_Item4=Designator=Up|Comment=Up|Footprint=Up
-Configuration1_Name5=VisibleOrder
-Configuration1_Item5=Description=572|Designator=130|Footprint=130|Quantity=130|Value=92
-OutputType2=ComponentCrossReference
-OutputName2=Component Cross Reference Report
+OutputType2=SimpleBOM
+OutputName2=Simple BOM
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-OutputType3=ReportHierarchy
-OutputName3=Report Project Hierarchy
+OutputType3=SinglePinNetReporter
+OutputName3=Report Single Pin Nets
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-OutputType4=Script
-OutputName4=Script Output
+OutputType4=BOM_PartType
+OutputName4=Bill of Materials
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
-OutputType5=SimpleBOM
-OutputName5=Simple BOM
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration4_Name1=Filter
+Configuration4_Item1=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration4_Name2=General
+Configuration4_Item2=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|IncludePCBData=False|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1122|FormHeight=653|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration4_Name3=GroupOrder
+Configuration4_Item3=Description=True|Value=True|Footprint=True
+Configuration4_Name4=SortOrder
+Configuration4_Item4=Designator=Up|Comment=Up|Footprint=Up
+Configuration4_Name5=VisibleOrder
+Configuration4_Item5=Description=572|Designator=130|Footprint=130|Quantity=130|Value=92
+OutputType5=ComponentCrossReference
+OutputName5=Component Cross Reference Report
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=SinglePinNetReporter
-OutputName6=Report Single Pin Nets
+OutputType6=ReportHierarchy
+OutputName6=Report Project Hierarchy
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
