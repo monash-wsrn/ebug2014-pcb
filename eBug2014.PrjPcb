@@ -330,7 +330,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=11
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -346,7 +346,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=12
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -446,29 +446,24 @@ ParamVariationCount=32
 Description=LightToFrequency
 AllowFabrication=0
 ParameterCount=0
-VariationCount=17
-Variation1=Designator=R55|UniqueId=\JGRMBHUV\LMBKFVXF|Kind=1|AlternatePart= 
-Variation2=Designator=R53|UniqueId=\JGRMBHUV\TYTYTLOK|Kind=1|AlternatePart= 
-Variation3=Designator=R54|UniqueId=\JGRMBHUV\OYHSFHFQ|Kind=1|AlternatePart= 
-Variation4=Designator=R56|UniqueId=\JGRMBHUV\FOMFUFSC|Kind=1|AlternatePart= 
-Variation5=Designator=R57|UniqueId=\JGRMBHUV\NBPWNOBR|Kind=1|AlternatePart= 
-Variation6=Designator=R58|UniqueId=\JGRMBHUV\BVPRNPEU|Kind=1|AlternatePart= 
-Variation7=Designator=R59|UniqueId=\JGRMBHUV\NVNENANS|Kind=1|AlternatePart= 
-Variation8=Designator=R60|UniqueId=\JGRMBHUV\HLWQKEKQ|Kind=1|AlternatePart= 
-Variation9=Designator=R61|UniqueId=\JGRMBHUV\GPPEWPIP|Kind=1|AlternatePart= 
-Variation10=Designator=R62|UniqueId=\JGRMBHUV\OVWTKQEI|Kind=1|AlternatePart= 
-Variation11=Designator=R63|UniqueId=\JGRMBHUV\QHAAUIPL|Kind=1|AlternatePart= 
-Variation12=Designator=R64|UniqueId=\JGRMBHUV\JSJDAJSH|Kind=1|AlternatePart= 
-Variation13=Designator=R65|UniqueId=\JGRMBHUV\KWBUKPWN|Kind=1|AlternatePart= 
-Variation14=Designator=R66|UniqueId=\JGRMBHUV\IVUHENAC|Kind=1|AlternatePart= 
-Variation15=Designator=R67|UniqueId=\JGRMBHUV\MRCIUSNC|Kind=1|AlternatePart= 
-Variation16=Designator=R68|UniqueId=\JGRMBHUV\YQDFPNEA|Kind=1|AlternatePart= 
-Variation17=Designator=LS1|UniqueId=\JGRMBHUV\ETAAMSCM|Kind=2|AlternatePart=TSL235R-LF
-ParamVariation1=ParameterName=Comment|VariantValue=TSL235R-LF
-ParamDesignator1=LS1
-ParamVariation2=ParameterName=Description|VariantValue=AMS - TSL235R-LF - IC LIGHT TO FREQUENCY CONV 3PIN
-ParamDesignator2=LS1
-ParamVariationCount=2
+VariationCount=16
+Variation1=Designator=R61|UniqueId=\JGRMBHUV\LMBKFVXF|Kind=1|AlternatePart= 
+Variation2=Designator=R59|UniqueId=\JGRMBHUV\TYTYTLOK|Kind=1|AlternatePart= 
+Variation3=Designator=R60|UniqueId=\JGRMBHUV\OYHSFHFQ|Kind=1|AlternatePart= 
+Variation4=Designator=R62|UniqueId=\JGRMBHUV\FOMFUFSC|Kind=1|AlternatePart= 
+Variation5=Designator=R63|UniqueId=\JGRMBHUV\NBPWNOBR|Kind=1|AlternatePart= 
+Variation6=Designator=R64|UniqueId=\JGRMBHUV\BVPRNPEU|Kind=1|AlternatePart= 
+Variation7=Designator=R65|UniqueId=\JGRMBHUV\NVNENANS|Kind=1|AlternatePart= 
+Variation8=Designator=R66|UniqueId=\JGRMBHUV\HLWQKEKQ|Kind=1|AlternatePart= 
+Variation9=Designator=R67|UniqueId=\JGRMBHUV\GPPEWPIP|Kind=1|AlternatePart= 
+Variation10=Designator=R68|UniqueId=\JGRMBHUV\OVWTKQEI|Kind=1|AlternatePart= 
+Variation11=Designator=R69|UniqueId=\JGRMBHUV\QHAAUIPL|Kind=1|AlternatePart= 
+Variation12=Designator=R70|UniqueId=\JGRMBHUV\JSJDAJSH|Kind=1|AlternatePart= 
+Variation13=Designator=R71|UniqueId=\JGRMBHUV\KWBUKPWN|Kind=1|AlternatePart= 
+Variation14=Designator=R72|UniqueId=\JGRMBHUV\IVUHENAC|Kind=1|AlternatePart= 
+Variation15=Designator=R73|UniqueId=\JGRMBHUV\MRCIUSNC|Kind=1|AlternatePart= 
+Variation16=Designator=R74|UniqueId=\JGRMBHUV\YQDFPNEA|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for eBug2014\Design Rule Check - PCB.html
