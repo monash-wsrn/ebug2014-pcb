@@ -28,7 +28,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=Project Outputs for eBug2014
+OutputPath=
 LogFolderPath=
 
 [Preferences]
@@ -466,94 +466,98 @@ Variation16=Designator=R74|UniqueId=\JGRMBHUV\YQDFPNEA|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for eBug2014\PCB-RoundHoles-Plated.TXT
+DocumentPath=Project Outputs for eBug2014\Design Rule Check - PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for eBug2014\PCB-SlotHoles-Plated.TXT
+DocumentPath=Project Outputs for eBug2014\PCB-RoundHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for eBug2014\PCB.DRR
+DocumentPath=Project Outputs for eBug2014\PCB-SlotHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for eBug2014\PCB.EXTREP
+DocumentPath=Project Outputs for eBug2014\PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for eBug2014\PCB.G1
+DocumentPath=Project Outputs for eBug2014\PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for eBug2014\PCB.G2
+DocumentPath=Project Outputs for eBug2014\PCB.G1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for eBug2014\PCB.GBL
+DocumentPath=Project Outputs for eBug2014\PCB.G2
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for eBug2014\PCB.GBO
+DocumentPath=Project Outputs for eBug2014\PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for eBug2014\PCB.GBP
+DocumentPath=Project Outputs for eBug2014\PCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for eBug2014\PCB.GBS
+DocumentPath=Project Outputs for eBug2014\PCB.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for eBug2014\PCB.GKO
+DocumentPath=Project Outputs for eBug2014\PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for eBug2014\PCB.GM1
+DocumentPath=Project Outputs for eBug2014\PCB.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for eBug2014\PCB.GM13
+DocumentPath=Project Outputs for eBug2014\PCB.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for eBug2014\PCB.GM15
+DocumentPath=Project Outputs for eBug2014\PCB.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for eBug2014\PCB.GPB
+DocumentPath=Project Outputs for eBug2014\PCB.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for eBug2014\PCB.GPT
+DocumentPath=Project Outputs for eBug2014\PCB.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for eBug2014\PCB.GTL
+DocumentPath=Project Outputs for eBug2014\PCB.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for eBug2014\PCB.GTO
+DocumentPath=Project Outputs for eBug2014\PCB.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for eBug2014\PCB.GTP
+DocumentPath=Project Outputs for eBug2014\PCB.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for eBug2014\PCB.GTS
+DocumentPath=Project Outputs for eBug2014\PCB.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for eBug2014\PCB.LDP
+DocumentPath=Project Outputs for eBug2014\PCB.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for eBug2014\PCB.REP
+DocumentPath=Project Outputs for eBug2014\PCB.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
+DocumentPath=Project Outputs for eBug2014\PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
 DocumentPath=Project Outputs for eBug2014\PCB.RUL
 DItemRevisionGUID=
 
@@ -611,7 +615,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for eBug2014
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
