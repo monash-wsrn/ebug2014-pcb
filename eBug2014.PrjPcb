@@ -51,7 +51,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WEYQADDA
 
 [Document2]
 DocumentPath=PSoC.SchDoc
@@ -68,7 +68,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OXPYKNGD
 
 [Document3]
 DocumentPath=LEDs.SchDoc
@@ -85,7 +85,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UCWYJLXB
 
 [Document4]
 DocumentPath=Libraries\eBug2014\Project Outputs for eBug2014\eBug2014.IntLib
@@ -119,7 +119,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MYQCAGRA
 
 [Document6]
 DocumentPath=LED5-8.SchDoc
@@ -136,7 +136,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HQEWVOOU
 
 [Document7]
 DocumentPath=LED9-12.SchDoc
@@ -153,7 +153,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BNXCQDBA
 
 [Document8]
 DocumentPath=LED13-16.SchDoc
@@ -170,7 +170,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ONDVUGAI
 
 [Document9]
 DocumentPath=eBug2014.OutJob
@@ -204,7 +204,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HHYFXDPW
+DocumentUniqueId=CSVVPEKP
 
 [Document11]
 DocumentPath=Light Sensors.SchDoc
@@ -221,7 +221,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CLFWUBGW
 
 [Document12]
 DocumentPath=DC Motors.SchDoc
@@ -238,7 +238,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QXNBOQPU
 
 [Document13]
 DocumentPath=Wireless.SchDoc
@@ -255,7 +255,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VLYBMAAK
 
 [Document14]
 DocumentPath=Libraries\Cypress PSoC 5LP.IntLib
@@ -340,7 +340,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FRBDJYJV
 
 [Document19]
 DocumentPath=Bump Sensors.SchDoc
@@ -357,7 +357,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WYJBQCGJ
 
 [Document20]
 DocumentPath=Expansion Header.SchDoc
@@ -374,7 +374,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OVDLBFHS
 
 [Document21]
 DocumentPath=Libraries\National Semiconductor MiscPower.IntLib
