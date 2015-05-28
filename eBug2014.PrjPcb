@@ -28,7 +28,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=Project Outputs for eBug2014
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -85,7 +85,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YYTWBJCE
+DocumentUniqueId=DKTIMXUR
 
 [Document4]
 DocumentPath=Libraries\eBug2014\Project Outputs for eBug2014\eBug2014.IntLib
@@ -119,7 +119,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PKRGBKKP
+DocumentUniqueId=OSOSVSTF
 
 [Document6]
 DocumentPath=LED5-8.SchDoc
@@ -136,7 +136,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FIOUJJBM
+DocumentUniqueId=YFGIJUXO
 
 [Document7]
 DocumentPath=LED9-12.SchDoc
@@ -221,7 +221,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RGJETEAY
+DocumentUniqueId=XQVGPOVT
 
 [Document12]
 DocumentPath=DC Motors.SchDoc
@@ -238,7 +238,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XDCPVSHD
+DocumentUniqueId=TANUAOUP
 
 [Document13]
 DocumentPath=Wireless.SchDoc
@@ -654,7 +654,7 @@ SaveSettingsToOutJob=-1
 PrintQuality=-3
 
 [Generic_EDE]
-OutputDir=Project Outputs for eBug2014
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -775,7 +775,7 @@ OutputDefault22=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Send To OneNote 2013
+TargetPrinter=Canon MX920 series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
