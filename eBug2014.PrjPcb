@@ -55,7 +55,7 @@ DocumentUniqueId=WEYQADDA
 
 [Document2]
 DocumentPath=PSoC.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -72,7 +72,7 @@ DocumentUniqueId=OXPYKNGD
 
 [Document3]
 DocumentPath=LEDs.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -85,7 +85,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DKTIMXUR
+DocumentUniqueId=YDJFIJXA
 
 [Document4]
 DocumentPath=Libraries\eBug2014\Project Outputs for eBug2014\eBug2014.IntLib
@@ -119,7 +119,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OSOSVSTF
+DocumentUniqueId=RPOIATXL
 
 [Document6]
 DocumentPath=LED5-8.SchDoc
@@ -136,7 +136,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YFGIJUXO
+DocumentUniqueId=SCQWLPLN
 
 [Document7]
 DocumentPath=LED9-12.SchDoc
@@ -221,7 +221,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XQVGPOVT
+DocumentUniqueId=EDCSWIFB
 
 [Document12]
 DocumentPath=DC Motors.SchDoc
@@ -238,7 +238,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TANUAOUP
+DocumentUniqueId=YRUTUFSL
 
 [Document13]
 DocumentPath=Wireless.SchDoc
@@ -392,116 +392,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[ProjectVariant1]
-Description=LightToVoltage
-AllowFabrication=0
-ParameterCount=0
-VariationCount=16
-Variation1=Designator=LS10|UniqueId=\JGRMBHUV\YPJSTGJC|Kind=0|AlternatePart=TSL252R-LF
-ParamVariation1=ParameterName=Comment|VariantValue=TSL252R-LF
-ParamDesignator1=LS10
-ParamVariation2=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
-ParamDesignator2=LS10
-Variation2=Designator=LS1|UniqueId=\JGRMBHUV\ETAAMSCM|Kind=0|AlternatePart=TSL252R-LF
-ParamVariation3=ParameterName=Comment|VariantValue=TSL252R-LF
-ParamDesignator3=LS1
-ParamVariation4=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
-ParamDesignator4=LS1
-Variation3=Designator=LS4|UniqueId=\JGRMBHUV\IWAHGQTH|Kind=0|AlternatePart=TSL252R-LF
-ParamVariation5=ParameterName=Comment|VariantValue=TSL252R-LF
-ParamDesignator5=LS4
-ParamVariation6=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
-ParamDesignator6=LS4
-Variation4=Designator=LS3|UniqueId=\JGRMBHUV\FPCAKKOX|Kind=0|AlternatePart=TSL252R-LF
-ParamVariation7=ParameterName=Comment|VariantValue=TSL252R-LF
-ParamDesignator7=LS3
-ParamVariation8=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
-ParamDesignator8=LS3
-Variation5=Designator=LS5|UniqueId=\JGRMBHUV\TCJCUNEW|Kind=0|AlternatePart=TSL252R-LF
-ParamVariation9=ParameterName=Comment|VariantValue=TSL252R-LF
-ParamDesignator9=LS5
-ParamVariation10=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
-ParamDesignator10=LS5
-Variation6=Designator=LS2|UniqueId=\JGRMBHUV\KABTENBL|Kind=0|AlternatePart=TSL252R-LF
-ParamVariation11=ParameterName=Comment|VariantValue=TSL252R-LF
-ParamDesignator11=LS2
-ParamVariation12=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
-ParamDesignator12=LS2
-Variation7=Designator=LS6|UniqueId=\JGRMBHUV\JTHESEKU|Kind=0|AlternatePart=TSL252R-LF
-ParamVariation13=ParameterName=Comment|VariantValue=TSL252R-LF
-ParamDesignator13=LS6
-ParamVariation14=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
-ParamDesignator14=LS6
-Variation8=Designator=LS7|UniqueId=\JGRMBHUV\WSCSDRTF|Kind=0|AlternatePart=TSL252R-LF
-ParamVariation15=ParameterName=Comment|VariantValue=TSL252R-LF
-ParamDesignator15=LS7
-ParamVariation16=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
-ParamDesignator16=LS7
-Variation9=Designator=LS8|UniqueId=\JGRMBHUV\DAOXMVBB|Kind=0|AlternatePart=TSL252R-LF
-ParamVariation17=ParameterName=Comment|VariantValue=TSL252R-LF
-ParamDesignator17=LS8
-ParamVariation18=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
-ParamDesignator18=LS8
-Variation10=Designator=LS9|UniqueId=\JGRMBHUV\RQYDKALT|Kind=0|AlternatePart=TSL252R-LF
-ParamVariation19=ParameterName=Comment|VariantValue=TSL252R-LF
-ParamDesignator19=LS9
-ParamVariation20=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
-ParamDesignator20=LS9
-Variation11=Designator=LS11|UniqueId=\JGRMBHUV\CFNLURER|Kind=0|AlternatePart=TSL252R-LF
-ParamVariation21=ParameterName=Comment|VariantValue=TSL252R-LF
-ParamDesignator21=LS11
-ParamVariation22=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
-ParamDesignator22=LS11
-Variation12=Designator=LS12|UniqueId=\JGRMBHUV\KPVNSQHP|Kind=0|AlternatePart=TSL252R-LF
-ParamVariation23=ParameterName=Comment|VariantValue=TSL252R-LF
-ParamDesignator23=LS12
-ParamVariation24=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
-ParamDesignator24=LS12
-Variation13=Designator=LS13|UniqueId=\JGRMBHUV\OMXGUSWO|Kind=0|AlternatePart=TSL252R-LF
-ParamVariation25=ParameterName=Comment|VariantValue=TSL252R-LF
-ParamDesignator25=LS13
-ParamVariation26=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
-ParamDesignator26=LS13
-Variation14=Designator=LS14|UniqueId=\JGRMBHUV\OGMXHCHD|Kind=0|AlternatePart=TSL252R-LF
-ParamVariation27=ParameterName=Comment|VariantValue=TSL252R-LF
-ParamDesignator27=LS14
-ParamVariation28=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
-ParamDesignator28=LS14
-Variation15=Designator=LS15|UniqueId=\JGRMBHUV\TXOUREPO|Kind=0|AlternatePart=TSL252R-LF
-ParamVariation29=ParameterName=Comment|VariantValue=TSL252R-LF
-ParamDesignator29=LS15
-ParamVariation30=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
-ParamDesignator30=LS15
-Variation16=Designator=LS16|UniqueId=\JGRMBHUV\UFIHMTAA|Kind=0|AlternatePart=TSL252R-LF
-ParamVariation31=ParameterName=Comment|VariantValue=TSL252R-LF
-ParamDesignator31=LS16
-ParamVariation32=ParameterName=Description|VariantValue=AMS - TSL252R-LF - IC LIGHT TO VOLTAGE SENSOR 3PIN
-ParamDesignator32=LS16
-ParamVariationCount=32
-
-[ProjectVariant2]
-Description=LightToFrequency
-AllowFabrication=0
-ParameterCount=0
-VariationCount=16
-Variation1=Designator=R61|UniqueId=\JGRMBHUV\LMBKFVXF|Kind=1|AlternatePart= 
-Variation2=Designator=R59|UniqueId=\JGRMBHUV\TYTYTLOK|Kind=1|AlternatePart= 
-Variation3=Designator=R60|UniqueId=\JGRMBHUV\OYHSFHFQ|Kind=1|AlternatePart= 
-Variation4=Designator=R62|UniqueId=\JGRMBHUV\FOMFUFSC|Kind=1|AlternatePart= 
-Variation5=Designator=R63|UniqueId=\JGRMBHUV\NBPWNOBR|Kind=1|AlternatePart= 
-Variation6=Designator=R64|UniqueId=\JGRMBHUV\BVPRNPEU|Kind=1|AlternatePart= 
-Variation7=Designator=R65|UniqueId=\JGRMBHUV\NVNENANS|Kind=1|AlternatePart= 
-Variation8=Designator=R66|UniqueId=\JGRMBHUV\HLWQKEKQ|Kind=1|AlternatePart= 
-Variation9=Designator=R67|UniqueId=\JGRMBHUV\GPPEWPIP|Kind=1|AlternatePart= 
-Variation10=Designator=R68|UniqueId=\JGRMBHUV\OVWTKQEI|Kind=1|AlternatePart= 
-Variation11=Designator=R69|UniqueId=\JGRMBHUV\QHAAUIPL|Kind=1|AlternatePart= 
-Variation12=Designator=R70|UniqueId=\JGRMBHUV\JSJDAJSH|Kind=1|AlternatePart= 
-Variation13=Designator=R71|UniqueId=\JGRMBHUV\KWBUKPWN|Kind=1|AlternatePart= 
-Variation14=Designator=R72|UniqueId=\JGRMBHUV\IVUHENAC|Kind=1|AlternatePart= 
-Variation15=Designator=R73|UniqueId=\JGRMBHUV\MRCIUSNC|Kind=1|AlternatePart= 
-Variation16=Designator=R74|UniqueId=\JGRMBHUV\YQDFPNEA|Kind=1|AlternatePart= 
-ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for eBug2014\Design Rule Check - PCB.html
@@ -775,7 +665,7 @@ OutputDefault22=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Canon MX920 series Printer
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
